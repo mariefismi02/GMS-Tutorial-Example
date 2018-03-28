@@ -1,5 +1,7 @@
 # GMS-Tutorial-Example
-This is some example i was created! You can use it for free!
+This is some example i was created! You can use it for free! 
+
+> Note: This example is for GM: Studio 1.4
 
 ### Availabe Examples
 1. Analog Button<br />
